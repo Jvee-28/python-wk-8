@@ -10,7 +10,7 @@ This project explores the **CORD-19 metadata dataset**, analyzing COVID-19 resea
 - Build a simple web app with Streamlit
 
 ## Dataset
-The dataset used is `metadata.csv` (sample provided here).  
+The dataset used is `metadata.csv` (https://1drv.ms/x/c/ecd17dffc7d8e18e/EdP1hzue4E1KsDtT5vNePxoByctplkLk1HxGQfJUTbBYZw?e=15fRUU).  
 It contains titles, abstracts, publication dates, authors, and sources.
 
 ## Installation
